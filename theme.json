@@ -2,7 +2,7 @@
     "id": "bring-back-my-groups",
     "name": "Bring Back My Groups",
     "description": "Brings tab groups back to Zen. Kind of.",
-    "js": false,
+    "js": true,
     "homepage": "https://github.com/Wacky-Wombat/Bring-Back-My-Groups",
     "preferences": "https://raw.githubusercontent.com/Wacky-Wombat/Bring-Back-My-Groups/main/preferences.json",
     "style": "https://raw.githubusercontent.com/Wacky-Wombat/Bring-Back-My-Groups/main/userChrome.css",
