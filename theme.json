@@ -1,6 +1,6 @@
 {
     "id": "bring-back-my-groups",
-    "name": "Bring Back My Groups",
+    "name": "Bring Back My Groups!",
     "description": "Brings tab groups back to Zen. Kind of.",
     "js": true,
     "homepage": "https://github.com/Wacky-Wombat/Bring-Back-My-Groups",
@@ -9,16 +9,15 @@
     "readme": "https://raw.githubusercontent.com/Wacky-Wombat/Bring-Back-My-Groups/main/README.md",
     "image": "https://raw.githubusercontent.com/Wacky-Wombat/Bring-Back-My-Groups/main/image.png",
     "author": "WW",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "tags": [
         "Zen Browser",
         "Vertical Tabs",
         "Tab Groups"
     ],
     "createdAt": "2025-08-25",
-    "updatedAt": "2025-08-35 00:34",
+    "updatedAt": "2025-08-25 09:12",
     "fork": [
         "zen"
     ]
-
 }
